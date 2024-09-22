@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o Zzks 👋
 
-<!--
-**Zzks7/Zzks7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente trabalhando em projetos de turismo e desenvolvimento de aplicativos.
 
-Here are some ideas to get you started:
+🌱 Aprendendo sempre mais sobre React Native e design de interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Pergunte-me sobre desenvolvimento web, turismo ou programação em geral.
+
+📫 Você pode me encontrar em [seu-email@example.com](mailto:seu-email@example.com)
+
+🌐 Confira meus projetos em [seu-site.com](http://seu-site.com)
+
+<!-- Adicione suas redes sociais -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/seu-perfil)
+[![Twitter](https://img.shields.io/badge/Twitter-@seuusuario-blue)](https://twitter.com/seuusuario)
